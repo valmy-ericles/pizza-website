@@ -7,4 +7,8 @@ export const GlogalStyle = createGlobalStyle`
     padding: 0;
     font-family: 'Kanit', sans-serif;
   }
+
+  #root {
+    overflow-x: hidden;
+  }
 `;
